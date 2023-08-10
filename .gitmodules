@@ -1,0 +1,3 @@
+[submodule "models/torchscale"]
+	path = models/torchscale
+	url = https://github.com/Hzfinfdu/torchscale.git
